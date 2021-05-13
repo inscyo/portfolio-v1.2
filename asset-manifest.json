@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/inscyo/portfolio-v1.2/static/css/main.73cefabc.chunk.css",
-    "main.js": "/inscyo/portfolio-v1.2/static/js/main.b1a966dd.chunk.js",
-    "main.js.map": "/inscyo/portfolio-v1.2/static/js/main.b1a966dd.chunk.js.map",
-    "runtime-main.js": "/inscyo/portfolio-v1.2/static/js/runtime-main.5b026988.js",
-    "runtime-main.js.map": "/inscyo/portfolio-v1.2/static/js/runtime-main.5b026988.js.map",
-    "static/js/2.6bec5edc.chunk.js": "/inscyo/portfolio-v1.2/static/js/2.6bec5edc.chunk.js",
-    "static/js/2.6bec5edc.chunk.js.map": "/inscyo/portfolio-v1.2/static/js/2.6bec5edc.chunk.js.map",
-    "static/js/3.10a3a3c1.chunk.js": "/inscyo/portfolio-v1.2/static/js/3.10a3a3c1.chunk.js",
-    "static/js/3.10a3a3c1.chunk.js.map": "/inscyo/portfolio-v1.2/static/js/3.10a3a3c1.chunk.js.map",
-    "index.html": "/inscyo/portfolio-v1.2/index.html",
-    "static/css/main.73cefabc.chunk.css.map": "/inscyo/portfolio-v1.2/static/css/main.73cefabc.chunk.css.map",
-    "static/js/2.6bec5edc.chunk.js.LICENSE.txt": "/inscyo/portfolio-v1.2/static/js/2.6bec5edc.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/inscyo/portfolio-v1.2/static/media/ttlbook.e57253af.ttf",
-    "static/media/freelancer-1-01_4x-removebg-preview.8800b6b5.png": "/inscyo/portfolio-v1.2/static/media/freelancer-1-01_4x-removebg-preview.8800b6b5.png",
-    "static/media/freelancer-man-modern-home-office-illustration_124507-5823-removebg-preview.347d1f20.png": "/inscyo/portfolio-v1.2/static/media/freelancer-man-modern-home-office-illustration_124507-5823-removebg-preview.347d1f20.png",
-    "static/media/photo_getty_freelancer-1-1200x807.f7db8e66.jpg": "/inscyo/portfolio-v1.2/static/media/photo_getty_freelancer-1-1200x807.f7db8e66.jpg"
+    "main.css": "/portfolio-v1.2/static/css/main.d36919e2.chunk.css",
+    "main.js": "/portfolio-v1.2/static/js/main.b1a966dd.chunk.js",
+    "main.js.map": "/portfolio-v1.2/static/js/main.b1a966dd.chunk.js.map",
+    "runtime-main.js": "/portfolio-v1.2/static/js/runtime-main.2f3ab2a0.js",
+    "runtime-main.js.map": "/portfolio-v1.2/static/js/runtime-main.2f3ab2a0.js.map",
+    "static/js/2.6bec5edc.chunk.js": "/portfolio-v1.2/static/js/2.6bec5edc.chunk.js",
+    "static/js/2.6bec5edc.chunk.js.map": "/portfolio-v1.2/static/js/2.6bec5edc.chunk.js.map",
+    "static/js/3.10a3a3c1.chunk.js": "/portfolio-v1.2/static/js/3.10a3a3c1.chunk.js",
+    "static/js/3.10a3a3c1.chunk.js.map": "/portfolio-v1.2/static/js/3.10a3a3c1.chunk.js.map",
+    "index.html": "/portfolio-v1.2/index.html",
+    "static/css/main.d36919e2.chunk.css.map": "/portfolio-v1.2/static/css/main.d36919e2.chunk.css.map",
+    "static/js/2.6bec5edc.chunk.js.LICENSE.txt": "/portfolio-v1.2/static/js/2.6bec5edc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio-v1.2/static/media/ttlbook.e57253af.ttf",
+    "static/media/freelancer-1-01_4x-removebg-preview.8800b6b5.png": "/portfolio-v1.2/static/media/freelancer-1-01_4x-removebg-preview.8800b6b5.png",
+    "static/media/freelancer-man-modern-home-office-illustration_124507-5823-removebg-preview.347d1f20.png": "/portfolio-v1.2/static/media/freelancer-man-modern-home-office-illustration_124507-5823-removebg-preview.347d1f20.png",
+    "static/media/photo_getty_freelancer-1-1200x807.f7db8e66.jpg": "/portfolio-v1.2/static/media/photo_getty_freelancer-1-1200x807.f7db8e66.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b026988.js",
+    "static/js/runtime-main.2f3ab2a0.js",
     "static/js/2.6bec5edc.chunk.js",
-    "static/css/main.73cefabc.chunk.css",
+    "static/css/main.d36919e2.chunk.css",
     "static/js/main.b1a966dd.chunk.js"
   ]
 }
